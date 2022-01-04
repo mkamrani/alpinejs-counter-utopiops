@@ -1,2 +1,12 @@
-# alpinejs-counter-utopiops
-A counter with Alpine.js hosted by Utopiops.com
+```
+██    ██ ████████  ██████  ██████  ██  ██████  ██████  ███████     ██████  ██████  ███    ███ 
+██    ██    ██    ██    ██ ██   ██ ██ ██    ██ ██   ██ ██         ██      ██    ██ ████  ████ 
+██    ██    ██    ██    ██ ██████  ██ ██    ██ ██████  ███████    ██      ██    ██ ██ ████ ██ 
+██    ██    ██    ██    ██ ██      ██ ██    ██ ██           ██    ██      ██    ██ ██  ██  ██ 
+ ██████     ██     ██████  ██      ██  ██████  ██      ███████ ██  ██████  ██████  ██      ██ 
+```                                                                                              
+
+A counter with Alpine.js hosted by Utopiops.com.                                                                                              
+
+Follow https://e2e.utopiops.com/alpinejs-simple-counter for the instructions.
+
